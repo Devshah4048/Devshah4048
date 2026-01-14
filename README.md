@@ -14,11 +14,13 @@
 </p>
 
 ## 🚀 About Me 
-I'm a data analyst passionate about helping businesses make sense of their data. I enjoy transforming complex, messy datasets into clear stories and actionable insights.
+I am a results-driven MIS Executive at Velocis Systems with strong expertise in data reporting, dashboard automation and business analytics.
 
-My focus is on building dashboards that get used, automating repetitive tasks to free up teams for more interesting problems, and creating models that help businesses plan for the future.
+I have hands-on experience in Advanced Excel, Power BI, SQL and basic Python, and I work extensively on creating automated MIS reports, performance dashboards and data validation systems that support management decision-making.
 
-When I'm not working with data, I enjoy [Your Hobby or Passion, e.g., creating content, hiking, mentoring others, etc.]. I love the "aha!" moment when data reveals something new and useful.
+My core strength lies in transforming raw operational data into meaningful insights through clean reporting, Power Query automation and dashboard visualization. I actively work on improving reporting accuracy, reducing manual work and increasing process efficiency.
+
+I am continuously upskilling myself in Data Analytics and aspire to grow into a Data Analyst / Business Analyst role where I can apply data to solve real business problems.
       
 
 ## 🌱 Currently Learning 
