@@ -25,8 +25,12 @@ I am continuously upskilling myself in Data Analytics and aspire to grow into a 
 
 ## 🌱 Currently Learning 
 
-- [A new skill or technology you're exploring, e.g., Advanced machine learning techniques in Scikit-learn.]
-- [Another skill, e.g., Cloud data warehousing with Google BigQuery.]
+• Advanced SQL for Data Analysis
+• Power BI DAX & Dashboard Optimization
+• Python for Data Analytics & Automation
+• Business Intelligence & Reporting Automation
+• Data Cleaning & Transformation using Power Query
+• KPI & Performance Dashboard Development
 
 ## 🛠️ Technical Skillset
 
